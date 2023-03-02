@@ -1,4 +1,4 @@
 # elasticapm-databricks
 Instrument Elastic APM Java agent on Azure DataBricks
 
-[![Ingestv1-Routing-6.png](https://i.postimg.cc/d3F7hCz2/Ingestv1-Routing-6.png)](https://postimg.cc/8Jyk37kc)
+[![Ingestv1-Routing.jpg](https://i.postimg.cc/XY3D3Nxt/Ingestv1-Routing.jpg)](https://postimg.cc/3dSZFTsZ)
